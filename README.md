@@ -57,7 +57,6 @@ python app.py
 ## 📩 Contact & Contributions
 💡 **Developer:** Houssem Bouagal  
 📧 **Email:** mouhamedhoussem813@gmail.com  
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/YourUsername)  
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request. 😊
 
